@@ -1,0 +1,10 @@
+{"chatdata": [
+    {"tag": "verfügbarkeit",
+    "input": ["noch da", "noch vorhanden", "noch zu haben"],
+    "return": ["Ja, ist noch da.", "Ja, ist noch vorhanden.", "Ja, ist noch zu haben."]
+    },
+    {"tag": "verhandlungen",
+    "input": ["letzter preis", "kann man noch was am preis machen", "ist am preis noch was zu machen", "letzte preis", "letze preis", "preislich was", "Schmerzgrenze", "preislich noch"],
+    "return": ["Nein, der Preis ist fest."]
+    }
+]}
